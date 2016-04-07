@@ -1,0 +1,6 @@
+build/*
+nbproject/private/*
+*.swp
+*.class
+*.jar
+dist/*
